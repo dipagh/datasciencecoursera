@@ -1,0 +1,10 @@
+---
+title: "helloworld"
+author: "dg"
+date: '2022-06-07'
+output: html_document
+---
+## This is my r markdown document
+```{r setup, include=FALSE}
+print("Hello World")
+```
